@@ -14,7 +14,7 @@ To compile and run:
 
 make			(Makefile uses mpicxx but mpiCC may also work based on mpi library being used)
 
-./rmcl_mpi --h for command line arguments
+./rmcl_mpi -h for command line arguments
 
 mpiexec -n # ./rmcl_mpi	COMMAND LINE ARGUMENTS
 
